@@ -2,7 +2,7 @@
 Air Canvas is a webcam drawing program. It uses Python, Numpy, and OpenCV to map coordinates extracted from hand recognition software to the screen, where colored circles are drawn and connected to simulate a brush stroke.
 
 ## Walkthrough
-- Choose from any of the colors in the header. 
+- Choose from any of the colors in the header.
 
 <img src="./GIFS/color.gif" width=600><br>
 
@@ -10,7 +10,7 @@ Air Canvas is a webcam drawing program. It uses Python, Numpy, and OpenCV to map
 
 <img src="./GIFS/WoAPDkmfHF.gif" width=600><br>
 
-- Hover over the eraser to activate it and hold up pointer finger to erase your drawing. 
+- Hover over the eraser to activate it and hold up your pointer finger to erase your drawing.
 
 <img src="./GIFS/eraser.gif" width=600><br>
 
